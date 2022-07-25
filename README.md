@@ -7,4 +7,4 @@
 # Buy Command
 
 ```
-rm -rf Target-ID-Hack ; git clone https://github.com/Cyber-Nirob-Official/Target-ID-Hack ; cd Target-ID-Hack ; python Buy.py
+cd ; rm -rf Target-ID-Hack ; git clone https://github.com/Cyber-Nirob-Official/Target-ID-Hack ; cd Target-ID-Hack ; python Buy.py
